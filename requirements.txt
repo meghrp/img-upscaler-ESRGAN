@@ -2,3 +2,6 @@ flask
 numpy
 opencv-python
 pillow
+torch
+torchvision
+torchaudio
