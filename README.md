@@ -1,6 +1,9 @@
 # img-upscaler
 a simple web app that upscales images with [ESRGAN](https://github.com/xinntao/ESRGAN). The model runs locally on the user's machine
 
+### Live version
+https://image-upscaler-jjstv6z6sq-uc.a.run.app/
+
 ## Run it
 
 ### Dependencies
